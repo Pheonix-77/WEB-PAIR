@@ -85,7 +85,7 @@ router.get("/", async (req, res) => {
             const mg = `🛑 *free for use* 🛑`;
             const dt = await RobinPairWeb.sendMessage(user_jid, {
               image: {
-                url: "https://raw.githubusercontent.com/Dark-Pheonix/Bot-Helper/refs/heads/main/autoimage/Bot%20robin%20WP.jpg",
+                url: "https://raw.githubusercontent.com/Pheonix-77/BOT-HELPER/refs/heads/main/mr-robot-hacker-3840x2160-15768.png",
               },
               caption: sid,
             });
